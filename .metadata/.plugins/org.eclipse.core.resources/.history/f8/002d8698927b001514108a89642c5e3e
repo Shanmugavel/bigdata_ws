@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package io.shanmugavel.bd.wc;
+
+import org.apache.hadoop.mapreduce.Mapper;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class WordCountMapper extends Mapper<KEYIN, VALUEIN, KEYOUT, VALUEOUT> {
+
+}

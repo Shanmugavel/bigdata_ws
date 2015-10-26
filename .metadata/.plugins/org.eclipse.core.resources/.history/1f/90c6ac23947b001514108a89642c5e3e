@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package io.shanmugavel.bd.wc;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class WordCount {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
