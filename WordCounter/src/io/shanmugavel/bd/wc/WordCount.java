@@ -21,6 +21,9 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 public class WordCount {
 
 	private static final String JOB_NAME = "WORD_COUNT";
+
+	// ./bin/hadoop jar ~/Desktop/wc.jar io.shanmugavel.bd.wc.WordCount ~/Workarea/programs/hadoop-2.7.1/input/ ~/Workarea/programs/hadoop-2.7.1/output/
+	
 	/**
 	 * @param args
 	 * @throws IOException 

@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.bd.movielens;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class Ratings {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
