@@ -29,7 +29,7 @@ public class RatingsMapper extends Mapper<LongWritable, Text, Text, IntWritable>
 			ratingsKey.set(rating);
 			context.write(ratingsKey, ONE);
 		} else {
-			System.out.println("Invalid Input, skipping the record");
+			System.err.println("Invalid Input, skipping the record");
 		}
 
 	}
