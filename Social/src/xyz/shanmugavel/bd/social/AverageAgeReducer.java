@@ -10,14 +10,14 @@ public class AverageAgeReducer extends Reducer<IntWritable, IntWritable, IntWrit
 
 	public void reduce(IntWritable key, Iterable<IntWritable> values, Context context)
 			throws IOException, InterruptedException {
-		int totalAge = 0;
+		float totalFriends = 0;
 		FloatWritable avgFriends = new FloatWritable();
-		int totalNoOfFriends = 0;
+		int noOfSamples = 0;
 		for (IntWritable value : values) {
-			totalAge += value.get();
-			totalNoOfFriends+=1;
+			totalFriends += value.get();
+			noOfSamples+=1;
 		}
-		avgFriends.set(totalAge/totalNoOfFriends);
+		avgFriends.set(totalFriends/noOfSamples);
 		context.write(key, avgFriends);
 
 	}

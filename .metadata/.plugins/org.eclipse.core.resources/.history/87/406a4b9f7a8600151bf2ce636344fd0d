@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.bd.wc;
+
+import java.io.IOException;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.mapreduce.Job;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class WordCountUsingChain {
+	
+	private static final String JOB_NAME = "WORD_COUNT_USING_CHAIN";
+
+
+	/**
+	 * @param args
+	 * @throws IOException 
+	 */
+	public static void main(String[] args) throws IOException {
+		Configuration conf = new Configuration();
+		Job job = Job.getInstance(conf, JOB_NAME);
+	}
+
+}

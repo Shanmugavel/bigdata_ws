@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.bd.wc;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class WordCountUsingChain {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+	}
+
+}

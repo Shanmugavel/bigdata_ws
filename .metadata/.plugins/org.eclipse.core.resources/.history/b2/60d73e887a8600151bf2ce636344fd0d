@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.bd.wc;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.mapreduce.Job;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class WordCountUsingChain {
+	
+	private static final String JOB_NAME = "WORD_COUNT_USING_CHAIN";
+
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Configuration conf = new Configuration();
+		Job job = Job.getInstance(JOB_NAME);
+	}
+
+}

@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=WordCounter/\/Users\/shanmugavelsundaramoorthy\/Workarea\/programs\/hadoop-2.7.1\/share\/hadoop\/mapreduce\/hadoop-mapreduce-client-core-2.7.1.jar&lt;org.apache.hadoop.mapreduce(Mapper.class[Mapper" modifiers="33" timestamp="1435558547000"/>
+<typeInfo handle="=WordCounter/\/Users\/shanmugavelsundaramoorthy\/Workarea\/programs\/hadoop-2.7.1\/share\/hadoop\/mapreduce\/hadoop-mapreduce-client-core-2.7.1.jar&lt;org.apache.hadoop.mapreduce(Reducer.class[Reducer" modifiers="33" timestamp="1435558547000"/>
+</typeInfoHistroy>

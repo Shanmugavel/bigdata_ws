@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.bd.wc;
+
+import org.apache.hadoop.conf.Configuration;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class WordCountUsingChain {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Configuration conf = new Configuration();
+	}
+
+}

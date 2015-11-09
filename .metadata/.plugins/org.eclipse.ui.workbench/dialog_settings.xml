@@ -5,8 +5,8 @@
 		<item value="28" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="-1" key="dialogHeight"/>
-		<item value="-1" key="dialogWidth"/>
+		<item value="500" key="dialogHeight"/>
+		<item value="800" key="dialogWidth"/>
 		<list key="textEntries">
 		</list>
 		<list key="orderedElements">
@@ -17,6 +17,10 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item value="org.apache.hdt.ui.wizard.NewReducerWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.apache.hdt.ui.newWizards.category"/>
+		</list>
 	</section>
 	<section name="InstallationDialogSettings">
 		<item value="702" key="DIALOG_WIDTH"/>
@@ -24,5 +28,11 @@
 		<item value="652" key="DIALOG_HEIGHT"/>
 		<item value="-37" key="DIALOG_X_ORIGIN"/>
 		<item value="-182" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.jdt.internal.ui.jarpackager.JarPackageWizard" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
 	</section>
 </section>
