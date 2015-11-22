@@ -92,6 +92,7 @@
 		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
 		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="/Users/shanmugavelsundaramoorthy/Desktop/wcusingchain.jar"/>
 			<item value="/Users/shanmugavelsundaramoorthy/Desktop/social.jar"/>
 			<item value="/Users/shanmugavelsundaramoorthy/Desktop/ratings.jar"/>
 			<item value="/Users/shanmugavelsundaramoorthy/Desktop/wc.jar"/>

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.poc.boot;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class HelloControllerIT {
+
+}

@@ -1,0 +1,5 @@
+package xyz.shanmugavel.poc.boot;
+
+public class Application {
+
+}
