@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.poc.boot.HelloActuator;
+
+import java.util.Arrays;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.context.ApplicationContext;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class Application {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		ApplicationContext ctx = SpringApplication.run(Application.class, args);
+		System.out.println("Let's inspect the beans provided by Spring Boot!");
+		String[] beanDefinitions = ctx.getBeanDefinitionNames();
+		Arrays.sort(beanDefinitions);
+		for (int i = 0; i < beanDefinitions.length; i++) {
+			System.out.println(beanDefinitions[i]);
+		}
+	}
+
+}

@@ -1,0 +1,16 @@
+#ports and management
+server.port=9000
+management.port=9001
+management.address=127.0.0.1
+
+#info
+info.app.name=HelloActuator
+info.app.description=My Second Spring Boot App!
+info.app.version=1.0.0
+info.build.name=@project.name@
+info.build.description=@project.description@
+info.build.version=@project.version@
+
+#endpoints customization
+endpoints.health.sensitive=false
+endpoints.shutdown.enabled=true

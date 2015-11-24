@@ -17,9 +17,9 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.apache.hdt.ui.wizard.NewReducerWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.apache.hdt.ui.newWizards.category"/>
+			<item value="org.eclipse.m2e"/>
 		</list>
 	</section>
 	<section name="InstallationDialogSettings">

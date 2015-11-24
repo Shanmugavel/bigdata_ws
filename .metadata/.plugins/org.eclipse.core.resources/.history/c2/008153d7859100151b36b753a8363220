@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.poc.boot.HelloActuator;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+public class HelloWorld {
+
+}

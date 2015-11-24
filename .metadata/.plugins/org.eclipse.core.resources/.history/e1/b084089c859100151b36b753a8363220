@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.poc.boot.HelloActuator;
+
+import lombok.AllArgsConstructor;
+import lombok.ToString;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+@AllArgsConstructor
+@ToString
+public class Hello {
+
+	private Long id;
+	private String content;
+}

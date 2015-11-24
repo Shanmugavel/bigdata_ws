@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package xyz.shanmugavel.poc.boot.HelloActuator;
+
+import lombok.Data;
+
+/**
+ * @author shanmugavelsundaramoorthy
+ *
+ */
+@Data
+public class Hello {
+
+	private Long id;
+	private String content;
+}
