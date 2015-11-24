@@ -3,3 +3,7 @@
 1448243933387	Rename type 'Hello'
 1448243973400	Rename type 'HelloWorld'
 1448245989660	Delete element
+1448343248153	Rename resource 'log4j-spring.xml'
+1448343544254	Rename resource 'log4j.xml'
+1448344311637	Rename resource 'log4j2.xml'
+1448345851472	Rename resource 'log4j2-spring.xml'

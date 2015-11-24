@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="io.shanmugavel.bd.wc.WordCountMapper"/>
-<fullyQualifiedTypeName name="io.shanmugavel.bd.wc.WordCountReducer"/>
 <fullyQualifiedTypeName name="com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider.Text"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapred.FileInputFormat"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.fs.Path"/>
@@ -26,7 +24,6 @@
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.TextInputFormat"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.TextOutputFormat"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
-<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="xyz.shanmugavel.poc.boot.HelloActuator.Greeting"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicLong"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+<fullyQualifiedTypeName name="lombok.extern.slf4j.Slf4j"/>
 </qualifiedTypeNameHistroy>

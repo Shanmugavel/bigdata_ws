@@ -879,3 +879,168 @@
 2015-11-22 23:00:42,164 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-11-22 23:00:42,170 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-11-22 23:00:42,170 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 17:29:12,660 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 17:29:12,666 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 17:29:12,667 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 17:29:12,671 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 17:29:12,671 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 17:29:53,461 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 17:29:53,478 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloBoot/src/main/resources
+2015-11-23 17:29:53,478 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloBoot/src/main/resources
+2015-11-23 17:29:53,490 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 17:29:53,490 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloBoot/src/test/resources
+2015-11-23 19:23:36,154 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 19:23:36,305 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 19:23:36,443 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 19:23:36,470 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 19:23:36,470 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 19:23:46,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 19:23:46,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloBoot/src/main/resources
+2015-11-23 19:23:46,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloBoot/src/main/resources
+2015-11-23 19:23:46,297 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 19:23:46,297 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloBoot/src/test/resources
+2015-11-23 19:25:21,144 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 19:25:21,215 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 19:25:21,263 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 19:25:21,266 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 19:25:21,266 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 19:26:22,750 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 19:26:22,753 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 19:26:22,754 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 19:26:22,757 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 19:26:22,757 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:16:10,377 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: xyz.shanmugavel.poc.boot:HelloActuator:0.0.1-SNAPSHOT @ /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/pom.xml.
+2015-11-23 22:16:12,906 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/springframework/boot/spring-boot-starter-log4j2/1.3.0.RELEASE/spring-boot-starter-log4j2-1.3.0.RELEASE.pom
+2015-11-23 22:16:13,798 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.3.0.RELEASE/spring-boot-starter-log4j2-1.3.0.RELEASE.pom
+2015-11-23 22:16:13,888 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.3.0.RELEASE/spring-boot-starter-log4j2-1.3.0.RELEASE.pom
+2015-11-23 22:16:15,253 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/apache/logging/log4j/log4j-slf4j-impl/2.4.1/log4j-slf4j-impl-2.4.1.pom
+2015-11-23 22:16:15,295 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.4.1/log4j-slf4j-impl-2.4.1.pom
+2015-11-23 22:16:15,340 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.4.1/log4j-slf4j-impl-2.4.1.pom
+2015-11-23 22:16:16,518 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/apache/logging/log4j/log4j/2.4.1/log4j-2.4.1.pom
+2015-11-23 22:16:16,607 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.4.1/log4j-2.4.1.pom
+2015-11-23 22:16:16,964 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.4.1/log4j-2.4.1.pom
+2015-11-23 22:16:19,656 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/apache/logging/log4j/log4j-api/2.4.1/log4j-api-2.4.1.pom
+2015-11-23 22:16:19,701 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.4.1/log4j-api-2.4.1.pom
+2015-11-23 22:16:19,743 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.4.1/log4j-api-2.4.1.pom
+2015-11-23 22:16:20,886 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/apache/logging/log4j/log4j-core/2.4.1/log4j-core-2.4.1.pom
+2015-11-23 22:16:20,953 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.4.1/log4j-core-2.4.1.pom
+2015-11-23 22:16:20,999 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.4.1/log4j-core-2.4.1.pom
+2015-11-23 22:16:22,729 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/springframework/boot/spring-boot-starter-log4j2/1.3.0.RELEASE/spring-boot-starter-log4j2-1.3.0.RELEASE.jar
+2015-11-23 22:16:23,446 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/apache/logging/log4j/log4j-slf4j-impl/2.4.1/log4j-slf4j-impl-2.4.1.jar
+2015-11-23 22:16:24,675 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/apache/logging/log4j/log4j-api/2.4.1/log4j-api-2.4.1.jar
+2015-11-23 22:16:25,506 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/apache/logging/log4j/log4j-core/2.4.1/log4j-core-2.4.1.jar
+2015-11-23 22:16:25,549 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.3.0.RELEASE/spring-boot-starter-log4j2-1.3.0.RELEASE.jar
+2015-11-23 22:16:25,589 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-log4j2/1.3.0.RELEASE/spring-boot-starter-log4j2-1.3.0.RELEASE.jar
+2015-11-23 22:16:25,644 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.4.1/log4j-slf4j-impl-2.4.1.jar
+2015-11-23 22:16:25,734 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.4.1/log4j-slf4j-impl-2.4.1.jar
+2015-11-23 22:16:25,779 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.4.1/log4j-api-2.4.1.jar
+2015-11-23 22:16:25,984 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.4.1/log4j-api-2.4.1.jar
+2015-11-23 22:16:26,036 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.4.1/log4j-core-2.4.1.jar
+2015-11-23 22:16:26,775 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.4.1/log4j-core-2.4.1.jar
+2015-11-23 22:16:28,138 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:16:28,139 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:16:28,139 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:16:28,142 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:16:28,142 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:16:44,610 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: xyz.shanmugavel.poc.boot:HelloActuator:0.0.1-SNAPSHOT @ /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/pom.xml.
+2015-11-23 22:16:45,376 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:16:45,377 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:16:45,391 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:16:45,400 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:16:45,400 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:19:11,663 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: xyz.shanmugavel.poc.boot:HelloActuator:0.0.1-SNAPSHOT @ /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/pom.xml.
+2015-11-23 22:19:12,524 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:19:12,524 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:19:12,525 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:19:12,527 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:19:12,528 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:19:14,080 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:19:14,080 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:19:14,096 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:19:14,108 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:19:14,109 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:32:52,258 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:32:52,259 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:32:52,260 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:32:52,280 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:32:52,280 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:34:09,883 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:34:09,885 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:34:09,886 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:34:09,905 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:34:09,905 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:39:04,907 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:39:04,909 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:39:04,909 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:39:05,123 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:39:05,124 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:42:26,226 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:42:26,227 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:42:26,227 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:42:26,234 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:42:26,234 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:45:26,826 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:45:26,826 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:45:26,826 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:45:26,829 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:45:26,829 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:45:32,924 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:45:32,925 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:45:32,925 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:45:32,929 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:45:32,929 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 22:51:52,197 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:51:52,198 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 22:51:52,198 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 22:51:52,201 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 22:51:52,201 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:10:57,603 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:10:57,604 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:10:57,605 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:10:57,611 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:10:57,611 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:16:26,661 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:16:26,662 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:16:26,663 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:16:26,666 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:16:26,666 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:17:31,973 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:17:31,974 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:17:31,974 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:17:32,000 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:17:32,000 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:20:14,761 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:20:14,763 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:20:14,763 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:20:14,791 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:20:14,792 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:21:20,971 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:21:20,972 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:21:20,972 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:21:20,980 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:21:20,980 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:22:21,864 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:22:21,864 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:22:21,865 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:22:21,873 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:22:21,873 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:23:56,887 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:23:56,887 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:23:56,888 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:23:56,892 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:23:56,892 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:24:40,068 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:24:40,069 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:24:40,070 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:24:40,116 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:24:40,116 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:26:40,752 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:26:40,753 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:26:40,754 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:26:40,758 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:26:40,759 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
+2015-11-23 23:27:09,637 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:27:09,638 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-23 23:27:09,639 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-23 23:27:09,642 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-23 23:27:09,642 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shanmugavelsundaramoorthy/Documents/bigdata_ws/HelloActuator/src/test/resources
